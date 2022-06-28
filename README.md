@@ -18,7 +18,7 @@ Commit of framework source code: dff3deab5d25f8bbfd49abfb423043c9be47b7db [Thu A
 1. Star and then clone.
     1. `git clone -b project-android-10.0.0_r47 git@github.com:NasdaqGodzilla/AndroidFrameworkProject.git`
     2. `git checkout project-android-10.0.0_r47`
-    3. `git submodule update --remote`
+    3. `git submodule update --init`
 2. Open android.ipr by Android Studio.
 
 Framework source code is added in as a git submodule. So command as below can fetch or update it.
