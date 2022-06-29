@@ -11,7 +11,8 @@ Both code search, analysis, debugging are all available, not only for reading.
 - [x] Code analysis(Data Flow, Search/Find, Call Hierarchy)
 - [x] Debugging(Attach debugger to process and debug by step, debug by breakpoint)
 
-Branch of framework source code: android-11.0.0_r48
+Branch of framework source code: android-10.0.0_r47
+
 Commit of framework source code: dff3deab5d25f8bbfd49abfb423043c9be47b7db [Thu Aug 06 17:14:59 2020 -0700]
 
 # Quick setup
