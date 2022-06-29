@@ -17,3 +17,5 @@ See Branches.
 # Branches
 For AOSP Android 11: [Branch: project-android-11.0.0_r48](https://github.com/NasdaqGodzilla/AndroidFrameworkProject/tree/project-android-11.0.0_r48)
 
+For AOSP Android 10: [Branch: project-android-10.0.0_r47](https://github.com/NasdaqGodzilla/AndroidFrameworkProject/tree/project-android-10.0.0_r47)
+
